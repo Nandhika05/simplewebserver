@@ -89,7 +89,8 @@ httpd.serve_forever()
 
 ![Screenshot 2024-03-12 113122](https://github.com/Nandhika05/simplewebserver/assets/154419402/7bce1d3c-2857-4b89-9e42-56c055d2e8e9)
 
-![Screenshot 2024-03-12 113751](https://github.com/Nandhika05/simplewebserver/assets/154419402/ffc05a3b-6671-451c-9616-799e545f7618)
+![Screenshot 2024-03-12 113751](https://github.com/Nandhika05/simplewebserver/assets/154419402/3800a66b-f495-4291-8798-4d188287c25a)
+
 
 
 ## RESULT:
